@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, Shake4oneActivity!</string>
+    <string name="app_name">Shake4one</string>
+    <string name="btn_Shake">StartShake</string>
+    <string name="btn_StopShake">StopDShake</string>
+    <string name="btn_GetLocation">GetLocation</string>
+</resources>
